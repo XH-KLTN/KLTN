@@ -11,6 +11,7 @@ while running:
             running=False
     pygame.display.flip() #cập nhật thay đổi màn hình
 pygame.quit()
+#dshjfgsdjgsjgdfhjgfd
 
 
                            
